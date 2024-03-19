@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://alienwer.github.io/</loc>
     <lastmod>2024-03-19T18:07:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://alienwer.github.io/blog/</loc>
     <lastmod>2024-03-19T18:07:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/markdown/</loc>
+    <loc>https://alienwer.github.io/blog/markdown/</loc>
     <lastmod>2024-03-19T18:07:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/syntax/</loc>
+    <loc>https://alienwer.github.io/blog/syntax/</loc>
     <lastmod>2024-03-19T18:07:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/</loc>
+    <loc>https://alienwer.github.io/test/</loc>
     <lastmod>2024-03-19T18:07:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown-syntax-guide/</loc>
+    <loc>https://alienwer.github.io/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://alienwer.github.io/about/</loc>
   </url>
 </urlset>
