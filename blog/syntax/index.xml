@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syntax on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Syntax on 👽 Alienwer&#39;s blog</title>
     <link>http://localhost:1313/blog/syntax/</link>
-    <description>Recent content in Syntax on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Syntax on 👽 Alienwer&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <copyright>Copyright © 2020, Alienwer.</copyright>
     <lastBuildDate>Tue, 19 Mar 2024 19:17:35 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
