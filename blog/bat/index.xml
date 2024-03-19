@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on 👽 Alienwer&#39;s blog 👽</title>
-    <link>https://alienwer.github.io/blog/markdown/</link>
-    <description>Recent content in Markdown on 👽 Alienwer&#39;s blog 👽</description>
+    <title>Bat on 👽 Alienwer&#39;s blog 👽</title>
+    <link>https://alienwer.github.io/blog/bat/</link>
+    <description>Recent content in Bat on 👽 Alienwer&#39;s blog 👽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Alienwer.</copyright>
     <lastBuildDate>Wed, 20 Mar 2024 00:49:59 +0800</lastBuildDate>
-    <atom:link href="https://alienwer.github.io/blog/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alienwer.github.io/blog/bat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20240320 Cmd</title>
       <link>https://alienwer.github.io/20240320-cmd/</link>
       <pubDate>Wed, 20 Mar 2024 00:49:59 +0800</pubDate>
       <guid>https://alienwer.github.io/20240320-cmd/</guid>
       <description>运行操作 ``` CMD命令：开始－&amp;gt;运行－&amp;gt;键入cmd或command(在命令行里可以看到系统版本、文件系统版本) ``` CMD命令锦集: gpedit.msc&amp;mdash;&amp;ndash;组策略 sndrec32&amp;mdash;&amp;mdash;-录音机 Nslookup&amp;mdash;&amp;mdash;-IP地址侦测器 ，是一个 监测网络中 DNS 服务器是否能正确实现域名解析的命令行工具。 它在 Windows NT/2000/XP 中均可使用 , 但在 Windows 98 中却没有集成这一个工具。 explorer&amp;mdash;&amp;mdash;-打开资源管理器 logoff&amp;mdash;&amp;mdash;&amp;mdash;注销命令 shutdown&amp;mdash;&amp;mdash;-60秒倒计时关机命令 lusrmgr.msc&amp;mdash;-本机用户和组 services.msc&amp;mdash;本地服务设置 oobe/msoobe /a&amp;mdash;-检查XP是否激活 notepad&amp;mdash;&amp;mdash;&amp;ndash;打开记事本 cleanmgr&amp;mdash;&amp;mdash;-垃圾整理 net start messenger&amp;mdash;-开始信使服务 compmgmt.msc&amp;mdash;计算机管理 net stop messenger&amp;mdash;&amp;ndash;停止信使服务 conf&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;启动netmeeting dvdplay&amp;mdash;&amp;mdash;&amp;ndash;DVD播放器 charmap&amp;mdash;&amp;mdash;&amp;ndash;启动字符映射表 diskmgmt.msc&amp;mdash;磁盘管理实用程序 calc&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;启动计算器 dfrg.msc&amp;mdash;&amp;mdash;-磁盘碎片整理程序 chkdsk.exe&amp;mdash;&amp;ndash;Chkdsk磁盘检查 devmgmt.msc&amp;mdash; 设备管理器 regsvr32 /u *.dll&amp;mdash;-停止dll文件运行 drwtsn32&amp;mdash;&amp;mdash; 系统医生 rononce -p&amp;mdash;-15秒关机 dxdiag&amp;mdash;&amp;mdash;&amp;mdash;检查DirectX信息 regedt32&amp;mdash;&amp;mdash;-注册表编辑器 Msconfig.exe&amp;mdash;系统配置实用程序 rsop.msc&amp;mdash;&amp;mdash;-组策略结果集 mem.exe&amp;mdash;&amp;mdash;&amp;ndash;显示内存使用情况 regedit.exe&amp;mdash;-注册表 winchat&amp;mdash;&amp;mdash;&amp;ndash;XP自带局域网聊天 progman&amp;mdash;&amp;mdash;&amp;ndash;程序管理器 winmsd&amp;mdash;&amp;mdash;&amp;mdash;系统信息 perfmon.msc&amp;mdash;-计算机性能监测程序 winver&amp;mdash;&amp;mdash;&amp;mdash;检查Windows版本 sfc/scannow&amp;mdash;&amp;ndash;扫描错误并复原 taskmgr&amp;mdash;&amp;ndash;任务管理器（2000/xp/2003 wmimgmt.msc&amp;mdash;-打开windows管理体系结构(WMI) wupdmgr&amp;mdash;&amp;mdash;&amp;ndash;windows更新程序 wscript&amp;mdash;&amp;mdash;&amp;ndash;windows脚本宿主设置 write&amp;mdash;&amp;mdash;&amp;mdash;-写字板 wiaacmgr&amp;mdash;&amp;mdash;-扫描仪和照相机向导 winchat&amp;mdash;&amp;mdash;&amp;ndash;XP自带局域网聊天 mplayer2&amp;mdash;&amp;mdash;-简易widnows media player mspaint&amp;mdash;&amp;mdash;&amp;ndash;画图板 mstsc&amp;mdash;&amp;mdash;&amp;mdash;-远程桌面连接 magnify&amp;mdash;&amp;mdash;&amp;ndash;放大镜实用程序 mmc&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;打开控制台 mobsync&amp;mdash;&amp;mdash;&amp;ndash;同步命令 iexpress&amp;mdash;&amp;mdash;-木马捆绑工具，系统自带 fsmgmt.</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://alienwer.github.io/test/</link>
-      <pubDate>Tue, 19 Mar 2024 18:07:57 +0800</pubDate>
-      <guid>https://alienwer.github.io/test/</guid>
-      <description>This is a page about »Test«.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://alienwer.github.io/markdown-syntax-guide/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://alienwer.github.io/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
