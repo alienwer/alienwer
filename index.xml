@@ -23,5 +23,12 @@
       <guid>http://localhost:1313/markdown-syntax-guide/</guid>
       <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Website: https://alienwer.github.io/&#xA;simple optimized for search engines.&#xA;冰冻三尺 非一日之寒 积土成山 非斯须之作 我是(👉LiangK)，一个普通的Robot工程师。 喜欢徒步、电影、跑步、爬山 这是我利用 &amp;quot;https://pages.github.com/&amp;quot;&amp;gt;GitHub Pages &amp;quot;https://bearblog.dev/.&amp;gt;Hugo搭建的个人博客。 我在GitHub主页: &amp;quot;https://1915419156.github.io/myblog.github.io/&amp;quot;&amp;gt;👉GitHub·👉LiangK 欢迎阅读与探讨~ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://github.com&amp;quot;&amp;gt;GitHub&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;http://huangxuan.me/&amp;quot;&amp;gt;Hux&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://analytics.google.com/analytics&amp;quot;&amp;gt;Google Analytics&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; Learn more and contribute on GitHub.</description>
+    </item>
   </channel>
 </rss>
