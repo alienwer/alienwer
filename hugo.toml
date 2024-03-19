@@ -6,7 +6,7 @@ baseURL = "https://alienwer.github.io/"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "👽 Alienwer's blog"
+title = "👽 Alienwer's blog 👽"
 author = "Alienwer"
 copyright = "Copyright © 2020, Alienwer."
 languageCode = "en-US"
@@ -38,7 +38,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Hugo ʕ•ᴥ•ʔ Bear"
+  title = "👽 Alienwer's blog 👽"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
