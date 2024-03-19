@@ -6,9 +6,9 @@ baseURL = "https://alienwer.github.io/"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
-author = "Jane Doe"
-copyright = "Copyright © 2020, Jane Doe."
+title = "👽 Alienwer's blog"
+author = "Alienwer"
+copyright = "Copyright © 2020, Alienwer."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
